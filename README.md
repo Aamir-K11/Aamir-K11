@@ -1,6 +1,7 @@
 # Hello World, I'm [Aamir Khan](https://www.linkedin.com/in/aamirfarooqkhan/)
 
-## I'm a software developer, a writer and a keen learner!
+# 💫About Me :
+### I'm a software developer, a writer and a keen learner!
 
 - 👀 I’m interested in software development and DevOps
 - 🌱 I’m currently learning Amazon Web Services (AWS)
@@ -27,3 +28,4 @@
 ![HTML](https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
+
