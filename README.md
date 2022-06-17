@@ -3,9 +3,14 @@
 # 💫About Me :
 ### I'm a software developer, a writer and a keen learner!
 
-- 👀 I’m interested in software development and DevOps
-- 🌱 I’m currently learning Amazon Web Services (AWS)
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aamirfarooqkhan/)
+- 👀 I’m interested in Software development and DevOps
+- 🌱 I’m currently learning Amazon Web Services (AWS) and Kubernetes
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I'm a top rated [Upworker](https://www.upwork.com/freelancers/~0115a1104061633614)
+
+### Reach out to me:
+[<img align="left" alt="Aamir Farooq Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aamirfarooqkhan/)
+<br />
 
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-3944BC.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AamirFarooqKhan) 
@@ -28,4 +33,3 @@
 ![HTML](https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
-
