@@ -1,6 +1,6 @@
 # Hello World, I'm [Aamir Khan](https://www.linkedin.com/in/aamirfarooqkhan/)
 
-## I'm a developer, a writer and a keen learner!
+## I'm a software developer, a writer and a keen learner!
 
 - 👀 I’m interested in software development and DevOps
 - 🌱 I’m currently learning Amazon Web Services (AWS)
