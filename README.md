@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in software development and DevOps
 - 🌱 I’m currently learning Amazon Web Services (AWS)
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aamirfarooqkhan/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aamirfarooqkhan/)
 
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-3944BC.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AamirFarooqKhan) 
