@@ -4,7 +4,7 @@
 ### I'm a software developer, a writer and a keen learner!
 
 - 👀 I’m interested in Software development and DevOps
-- 🌱 I’m currently learning Amazon Web Services (AWS) and Kubernetes
+- 🌱 I’m currently learning Amazon Web Services (AWS) and React
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I'm a top rated [Upworker](https://www.upwork.com/freelancers/~0115a1104061633614)
 
