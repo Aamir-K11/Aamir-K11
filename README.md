@@ -35,5 +35,5 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
 # :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aamir-K11&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aamir-K11&theme=dark&background=000000)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-K11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
