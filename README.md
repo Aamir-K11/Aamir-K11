@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software development and DevOps
 - 🌱 I’m currently learning Amazon Web Services (AWS) and React
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I'm a top rated [Upworker](https://www.upwork.com/freelancers/~0115a1104061633614)\
+- ⚡ Fun fact: I'm a top rated [Upworker](https://www.upwork.com/freelancers/~0115a1104061633614)
 
 ### Reach out to me:
 [<img align="left" alt="Aamir Farooq Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aamirfarooqkhan/)
