@@ -33,3 +33,6 @@
 ![HTML](https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
+
+# :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aamir-K11&theme=dark&background=000000)](https://git.io/streak-stats)
