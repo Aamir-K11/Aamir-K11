@@ -36,4 +36,4 @@
 
 # :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aamir-K11&theme=dark&background=000000)](https://git.io/streak-stats)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-K11&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aamir-K11&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
