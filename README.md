@@ -10,12 +10,12 @@
 
 ### Reach out to me:
 [<img align="left" alt="Aamir Farooq Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aamirfarooqkhan/)
-<br />\
+<br />
 
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-3944BC.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AamirFarooqKhan) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aamir.farooq.khan/?hl=en) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)
 
 
 # :hammer_and_wrench: Languages and Tools
@@ -32,8 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>          </div>\
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>          </div>
+   
+   
 # :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aamir-K11&theme=dark&background=000000)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aamir-K11&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
