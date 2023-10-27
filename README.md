@@ -12,9 +12,7 @@
 [<img align="left" alt="Aamir Farooq Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aamirfarooqkhan/)
 <br />
 
-# 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-3944BC.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AamirFarooqKhan) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aamir.farooq.khan/?hl=en) 
+# 🌐Social 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)
 
 
