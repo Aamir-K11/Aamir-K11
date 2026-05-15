@@ -10,7 +10,6 @@
 
 <!-- ═══════════════════════════  SOCIAL BADGES  ═══════════════════════════ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aamir%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%E2%98%85-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0115a1104061633614)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirkhan11999@gmail.com)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=Aamir-K11&style=for-the-badge&color=7c3aed&label=Profile+Views)](https://github.com/Aamir-K11)
 
@@ -48,7 +47,6 @@
 <br/>
 
 🏅 &nbsp;**Rector's Gold Medallist** — NUST 2021  
-⭐ &nbsp;**Upwork Top-Rated** — 100% Job Success  
 🌍 &nbsp;**20+ clients** served globally  
 🤖 &nbsp;**AI-first** development mindset  
 ✍️ &nbsp;Writer + thinker in spare time  
@@ -98,7 +96,7 @@
 | | |
 |:---|:---|
 | 🎓 &nbsp;**Gold Medallist** | Graduated top of my department at NUST with a 3.69 GPA and won the Rector's Gold Medal for the best final-year project. Not just a grade — a proof of concept. |
-| 🤝 &nbsp;**Global Freelancer** | Trusted by 20+ clients across the world on Upwork with a 100% Job Success Score. People come back — that's the metric I care about. |
+| 🤝 &nbsp;**Client work** | Trusted by 20+ clients across the world. Repeat engagements and clear outcomes matter more than any platform badge. |
 | ✍️ &nbsp;**Technical Writer** | I write to think. Good writing is good thinking. Documentation, blogs, or a well-named variable — it all counts. |
 | 🤖 &nbsp;**AI Enthusiast** | Not just a user — I build *with* AI. Integrating LLMs into real products is the most exciting challenge of this decade. |
 | 🌱 &nbsp;**Lifelong Learner** | There's always a deeper layer. Whether it's a new algorithm, a distributed systems paper, or a philosophy book — I'm reading it. |
@@ -150,15 +148,6 @@
 
 ---
 
-<!-- ═══════════════════════════  ACTIVITY GRAPH  ═══════════════════════════ -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir-K11&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=e0e0ff&hide_border=true" width="95%"/>
-</div>
-
----
-
 <!-- ═══════════════════════════  QUOTE  ═══════════════════════════ -->
 <div align="center">
 <br/>
@@ -171,8 +160,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let%27s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)&nbsp;
-[![Upwork](https://img.shields.io/badge/Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0115a1104061633614)
+[![LinkedIn](https://img.shields.io/badge/Let%27s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)
 
 </div>
 
