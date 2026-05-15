@@ -1,17 +1,30 @@
 <div align="center">
 
 <!-- ═══════════════════════════  HEADER BANNER  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aamir%20Khan&fontSize=72&fontColor=e0e0ff&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Thinker&descColor=a78bfa&descAlignY=60&animation=fadeIn" width="100%" />
-
-<!-- ═══════════════════════════  TYPING TAGLINE  ═══════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&width=620&lines=Building+things+that+don%27t+break+at+2am.;Turning+complexity+into+clarity.;From+NUST+Gold+Medal+to+global+impact.;Curious+by+nature%2C+precise+by+practice." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aamir%20Khan&fontSize=72&fontColor=e0e0ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Thinker&descColor=a78bfa&descAlignY=60&animation=fadeIn" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════════  SOCIAL BADGES  ═══════════════════════════ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aamir%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirfarooqkhan/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirkhan11999@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Aamir-K11&style=for-the-badge&color=7c3aed&label=Profile+Views)](https://github.com/Aamir-K11)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirkhan11999@gmail.com)
+
+<br/><br/>
+
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+<h3 align="center">Stack</h3>
+
+<div align="center">
+
+![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
 
 </div>
 
@@ -96,7 +109,7 @@
 | | |
 |:---|:---|
 | 🎓 &nbsp;**Gold Medallist** | Graduated top of my department at NUST with a 3.69 GPA and won the Rector's Gold Medal for the best final-year project. Not just a grade — a proof of concept. |
-| 🤝 &nbsp;**Client work** | Trusted by 20+ clients across the world. Repeat engagements and clear outcomes matter more than any platform badge. |
+| 🤝 &nbsp;**Client work** | Trusted by 20+ clients across the world. People come back — that's the metric I care about. |
 | ✍️ &nbsp;**Technical Writer** | I write to think. Good writing is good thinking. Documentation, blogs, or a well-named variable — it all counts. |
 | 🤖 &nbsp;**AI Enthusiast** | Not just a user — I build *with* AI. Integrating LLMs into real products is the most exciting challenge of this decade. |
 | 🌱 &nbsp;**Lifelong Learner** | There's always a deeper layer. Whether it's a new algorithm, a distributed systems paper, or a philosophy book — I'm reading it. |
